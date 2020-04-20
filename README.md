@@ -5,7 +5,7 @@
 
 1. 文件[Building-NN-model-with-numpy]    项目名称:【使用numpy手写神经网络(2层和3层) 】[项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/Building-NN-model-with-numpy)
 
-
+2.文件
 
 
 
