@@ -1,15 +1,51 @@
-# K-mean算法
-此项目是一些机器学习和人工智能的项目实战，每一个文件夹都是一个具体的实战项目，目的就是让新人能够快速动手实践，延续学习的热情！
+## K-mean、二分K-mean聚类算法
+主要是解决无标签数据分类问题，文件的名字就是对应的算法
 
-## 项目列表
+### 依赖环境
 
-1. 文件[Building-NN-model-with-numpy]    项目名称:【使用numpy手写神经网络(2层和3层) 】[项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/Building-NN-model-with-numpy)
+python3.7
 
-2.文件
+### python库
+
+numpy 
+
+matplotlib
+
+### 下载安装
+
+```
+git clone https://github.com/lzx1019056432/Be-Friendly-To-New-People.git
+```
+
+### 安装依赖包
+
+```
+pip install -r requirements.txt
+```
+
+### 使用方法
+
+在当前目录下输入
+
+```
+cd K-mean
+```
+
+运行K-mean算法
+
+```
+python K-mean.py
+```
+
+运行二分K-mean算法
+
+```
+python 二分K-mean.py
+```
 
 
-## 闲话
 
-第一次在GitHub上整理资源，有哪些做的不恰当的地方，还希望各位大佬多提提意见。做这个的初心就是想收集一些比较好的机器学习和人工智能入门案例，带有详细文档解释。这样也大大降低入门门槛，同时减少了新手各种找资料的实践。如果有愿意一起完善这个项目的，可以邮箱联系我 1019056432 @qq.com,或者通过下方的CSDN私信我期待与大佬一起做一件有意义的事。
-### [CSDN主页地址](https://blog.csdn.net/lzx159951)
+### 相关博客地址
 
+* [K-mean均值算法原理讲解和代码实战](https://blog.csdn.net/lzx159951/article/details/105763911)
+* [二分K-mean均值算法原理讲解和代码实战](https://blog.csdn.net/lzx159951/article/details/105764762)

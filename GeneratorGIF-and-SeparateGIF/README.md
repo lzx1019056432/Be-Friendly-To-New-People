@@ -1,6 +1,10 @@
 ## GeneratorGIF-and-SeparateGIF
 此项目是GIF图片的生成和GIF图片的分离。
 
+![img](https://img-blog.csdnimg.cn/20200426104251951.gif)
+
+​																生成样例图
+
 ### 依赖环境
 
 python 3.7
