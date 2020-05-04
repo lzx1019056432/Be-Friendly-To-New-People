@@ -3,13 +3,18 @@
 
 ## 项目列表
 
-1. 文件[Building-NN-model-with-numpy]    项目名称:【使用numpy手写神经网络(2层和3层) 】[项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/Building-NN-model-with-numpy)
+| 序号 |             文件名             |             项目简述             |                           项目地址                           |
+| :--: | :----------------------------: | :------------------------------: | :----------------------------------------------------------: |
+|  1   | [Building-NN-model-with-numpy] | 使用numpy手写神经网络(2层和3层)  | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/Building-NN-model-with-numpy) |
+|  2   | [GeneratorGIF-and-SeparateGIF] |    实现多个图片转GIF和GIF分离    | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/GeneratorGIF-and-SeparateGIF) |
+|  3   |            [K-mean]            | K-mean算法源代码实现以及详细注释 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/K-mean) |
+|  4   |             [PCA]              | 主成分分析源代码实现以及详细注释 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/PCA) |
 
-2.文件
+
 
 
 ## 闲话
 
-第一次在GitHub上整理资源，有哪些做的不恰当的地方，还希望各位大佬多提提意见。做这个的初心就是想收集一些比较好的机器学习和人工智能入门案例，带有详细文档解释。这样也大大降低入门门槛，同时减少了新手各种找资料的实践。如果有愿意一起完善这个项目的，可以邮箱联系我 1019056432 @qq.com,或者通过下方的CSDN私信我期待与大佬一起做一件有意义的事。
+第一次在GitHub上整理资源，有哪些做的不恰当的地方，还希望各位大佬多提提意见。做这个的初心就是想收集一些比较好的机器学习、人工智能、有趣的项目的入门案例，带有详细文档解释。这样也大大降低入门门槛，同时减少了新手各种找资料的时间。如果有愿意一起完善这个项目的，可以邮箱联系我 1019056432 @qq.com,或者通过下方的CSDN私信我期待与大佬一起做一件有意义的事。
 ### [CSDN主页地址](https://blog.csdn.net/lzx159951)
 

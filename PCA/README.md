@@ -38,6 +38,16 @@ cd PCA
 python PCA.py
 ```
 
+### 效果图
+原数据图像：
+
+![image-20200503202403835](C:\Users\86151\AppData\Roaming\Typora\typora-user-images\image-20200503202403835.png)
+
+降维后数据图像：
+
+![image-20200503202452003](C:\Users\86151\AppData\Roaming\Typora\typora-user-images\image-20200503202452003.png)
+
+
 
 
 ### 技术博客地址
