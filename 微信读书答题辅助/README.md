@@ -46,9 +46,8 @@ python question-answer.py
 ### 效果图
 答题图：
 
-![视频gif](C:\Users\86151\Desktop\视频gif.gif)
+![视频gif](https://img-blog.csdnimg.cn/20200511210707238.gif)
 
-![image-20200511211655820](C:\Users\86151\AppData\Roaming\Typora\typora-user-images\image-20200511211655820.png)
 
 ### 注意事项：
 
