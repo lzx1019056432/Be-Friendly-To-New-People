@@ -48,10 +48,15 @@ python question-answer.py
 
 ![视频gif](C:\Users\86151\Desktop\视频gif.gif)
 
+![image-20200511211655820](C:\Users\86151\AppData\Roaming\Typora\typora-user-images\image-20200511211655820.png)
 
+### 注意事项：
+
+1. 使用前请查看技术文档
+2. 不想修改截图位置的话，请将mumu模拟器放在屏幕左上角
 
 
 ### 技术博客地址
 
-* [PCA(主成分分析-principal components analysis)学习笔记以及源代码实战讲解](https://blog.csdn.net/lzx159951/article/details/105912705)
+* [从0到1使用python开发一个半自动答题小程序](https://blog.csdn.net/lzx159951/article/details/106062579)
 
