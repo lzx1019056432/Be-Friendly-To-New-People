@@ -42,9 +42,19 @@ cd 决策树
 python decision-tree.py
 ```
 
+## 决策树格式
 
+决策树产生字典的字典形式为：
+
+```
+{'tearRate': {'reduced': 'no lenses', 'normal': {'astigmatic': {'no': {'age': {'presbyopic': {'prescript': {'hyper': 'soft', 'myope': 'no lenses'}}, 'young': 'soft', 'pre': 'soft'}}, 'yes': {'prescript': {'hyper': {'age': {'presbyopic': 'no lenses', 'young': 'hard', 'pre': 'no lenses'}}, 'myope': 'hard'}}}}}}
+```
+
+决策树图形表示：
+
+![20200517121438425.png](https://img-blog.csdnimg.cn/20200517121438425.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2x6eDE1OTk1MQ==,size_16,color_FFFFFF,t_70#pic_center)
 
 ### 技术博客地址
 
-* [决策树代码实战](https://blog.csdn.net/lzx159951/article/details/106138634)
+* [决策树代码实战](https://blog.csdn.net/lzx159951/article/details/106172243)
 

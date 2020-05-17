@@ -11,6 +11,7 @@
 |  4   |             [PCA]              | 主成分分析源代码实现以及详细注释 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/PCA) |
 |  5   |             [微信读书答题辅助]              |python代码实现微信读书每日答题答题半自动化 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E7%AD%94%E9%A2%98%E8%BE%85%E5%8A%A9) |
 |  6   |             [KNN]              | k-邻近算法源代码以及详细注解 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/KNN) |
+| 7 | [决策树] | 决策树算法的原理分析和代码详解 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/%E5%86%B3%E7%AD%96%E6%A0%91) |
 
 
 ## 闲话
