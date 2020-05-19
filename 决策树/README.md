@@ -20,7 +20,7 @@ git clone https://github.com/lzx1019056432/Be-Friendly-To-New-People.git
 ### 安装依赖包
 
 ```
-cd PCA
+cd 决策树
 pip install -r requirements.txt
 ```
 ### 文件介绍
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 cd 决策树
 ```
 
-运行PCA算法
+运行决策树算法
 
 ```
 python decision-tree.py
