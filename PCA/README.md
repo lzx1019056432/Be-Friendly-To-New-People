@@ -41,11 +41,11 @@ python PCA.py
 ### 效果图
 原数据图像：
 
-![image-20200503202403835](C:\Users\86151\AppData\Roaming\Typora\typora-user-images\image-20200503202403835.png)
+![image-20200503202403835](https://img-blog.csdnimg.cn/20200504085719619.png)
 
 降维后数据图像：
 
-![image-20200503202452003](C:\Users\86151\AppData\Roaming\Typora\typora-user-images\image-20200503202452003.png)
+![image-20200503202452003](https://img-blog.csdnimg.cn/20200504085730934.png)
 
 
 
