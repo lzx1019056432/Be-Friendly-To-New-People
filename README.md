@@ -14,7 +14,8 @@
 | 7 | [决策树] | 决策树算法的原理分析和代码详解 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/%E5%86%B3%E7%AD%96%E6%A0%91) |
 | 8 | [朴素贝叶斯] | 朴素贝叶斯原理分析和代码详解 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/朴素贝叶斯) |
 | 9 | [Logistic分类回归] | 逻辑回归分类算法分析和代码详解 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/Logistic回归算法) |
-|  | [SVM支持向量机] | SVM分类算法分析和代码详情 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/SVM支持向量机) |
+| 10 | [SVM支持向量机] | SVM分类算法分析和代码详情 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/SVM支持向量机) |
+| 11 | [基于单层决策树的AdaBoost] | 基于单层决策树的AdaBoost算法分析和代码 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/基于单层决策树的AdaBoost) |
 
 
 
