@@ -9,8 +9,6 @@ python3.7
 
 numpy 
 
-matplotlib
-
 ### 下载安装
 
 ```
