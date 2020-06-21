@@ -29,7 +29,7 @@ pip install -r requirements.txt
 在当前目录下输入
 
 ```
-cd ROC-AUC
+cd ROC曲线和AUC面积
 ```
 
 运行算法
