@@ -17,7 +17,8 @@
 | 10 | [SVM支持向量机] | SVM分类算法分析和代码详情 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/SVM支持向量机) |
 | 11 | [基于单层决策树的AdaBoost] | 基于单层决策树的AdaBoost算法分析和代码 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/基于单层决策树的AdaBoost算法) |
 | 12 | [ROC曲线和AUC面积] | ROC曲线原理分析和代码实战 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/ROC曲线和AUC面积) |
-|  |  |  |  |
+|  | [LineRegression] | [基础线性回归算法原理以及项目实战] | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/LineRegression) |
+| 14 | [LwLineReg] | [局部加权线性回归算法原理以及代码实战] | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/LwLineReg) |
 
 
 
