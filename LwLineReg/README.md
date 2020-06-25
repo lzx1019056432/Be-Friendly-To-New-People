@@ -20,7 +20,7 @@ git clone https://github.com/lzx1019056432/Be-Friendly-To-New-People.git
 ### 安装依赖包
 
 ```
-cd Local-weighting-Logistic
+cd LwLineReg
 pip install -r requirements.txt
 ```
 
@@ -29,13 +29,13 @@ pip install -r requirements.txt
 在当前目录下输入
 
 ```
-cd Local-weighting-Logistic
+cd LwLineReg
 ```
 
 运行线性回归算法
 
 ```
-python Local_weighting_Logistic.py
+python LwLineReg.py
 ```
 
 ### 拟合图效果图

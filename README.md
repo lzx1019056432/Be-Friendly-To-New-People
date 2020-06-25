@@ -16,7 +16,8 @@
 | 9 | [Logistic分类回归] | 逻辑回归分类算法分析和代码详解 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/Logistic回归算法) |
 | 10 | [SVM支持向量机] | SVM分类算法分析和代码详情 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/SVM支持向量机) |
 | 11 | [基于单层决策树的AdaBoost] | 基于单层决策树的AdaBoost算法分析和代码 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/基于单层决策树的AdaBoost算法) |
-|  | [ROC曲线和AUC面积] | ROC曲线原理分析和代码实战 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/ROC曲线和AUC面积) |
+| 12 | [ROC曲线和AUC面积] | ROC曲线原理分析和代码实战 | [项目地址](https://github.com/lzx1019056432/Be-Friendly-To-New-People/tree/master/ROC曲线和AUC面积) |
+|  |  |  |  |
 
 
 
