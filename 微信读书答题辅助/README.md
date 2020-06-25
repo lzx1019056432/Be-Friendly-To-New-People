@@ -37,7 +37,7 @@ pip install -r requirements.txt
 cd 微信读书答题辅助
 ```
 
-运行PCA算法
+运行程序
 
 ```
 python question-answer.py

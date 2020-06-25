@@ -32,7 +32,7 @@ pip install -r requirements.txt
 cd SVM支持向量机
 ```
 
-运行PCA算法
+运行SVM算法
 
 ```
 python SVM.py

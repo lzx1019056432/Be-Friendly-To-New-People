@@ -20,7 +20,7 @@ git clone https://github.com/lzx1019056432/Be-Friendly-To-New-People.git
 ### 安装依赖包
 
 ```
-cd PCA
+cd KNN
 pip install -r requirements.txt
 ```
 

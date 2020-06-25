@@ -29,7 +29,7 @@ pip install -r requirements.txt
 在当前目录下输入
 
 ```
-cd PCA
+cd Logistic回归算法
 ```
 
 运行Logistic回归算法
