@@ -41,7 +41,7 @@ python ridge-regression.py
 ### 结果分析图
 
 
-![image](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9naXRlZS5jb20vemhlbnhpbmc4Ny9pbWFnZXN0b3Jlcy9yYXcvbWFzdGVyL2ltZy8yMDIwMDcwMzA4Mzc1My5wbmc?x-oss-process=image/format,png)
+![image-20200702215005388](https://gitee.com/zhenxing87/imagestores/raw/master/img/20200703083753.png)
 
 
 
