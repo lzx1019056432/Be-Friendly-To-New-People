@@ -187,7 +187,7 @@ def get_w(dataMat, labelMat, alphas):
 
 
 if __name__ == '__main__':
-    dataMat, labelMat = loadDataSet('../data/testSet.txt')
+    dataMat, labelMat = loadDataSet('datasets/testSet.txt')
     b,alphas = smoSimple(dataMat, labelMat, 0.6, 0.001, 40)
     # print("b,alphas",b,alphas)
     w = get_w(dataMat, labelMat, alphas)
